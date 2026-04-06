@@ -75,3 +75,6 @@ Importante:
 - Testes implementados
 - Pipeline configurada e funcionando
 - Demonstração em aula
+
+
+teste pipeline
